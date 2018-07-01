@@ -10,8 +10,6 @@ It's simplistic design makes it easy and simple to use and provides great user e
 
 Clone to your local machince and import it into Android Studio.
 
-Link to apk - http://bit.ly/2tILthS
-
 ### Prerequisites
 
 Android Studio
